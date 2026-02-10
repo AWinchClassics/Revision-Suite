@@ -1,0 +1,49 @@
+{
+  "id": "01-the-classical-greek-world",
+  "title": "01. The Classical Greek World",
+  "description": "",
+  "events": [
+    {
+      "id": "event-1",
+      "label": "Ionian Revolt Begins",
+      "year": -499,
+      "displayDate": "499 BCE",
+      "note": ""
+    },
+    {
+      "id": "event-3",
+      "label": "Ionian Revolt ends",
+      "year": -493,
+      "displayDate": "493 BCE",
+      "note": ""
+    },
+    {
+      "id": "event-2",
+      "label": "Mardonius' Expedition",
+      "year": -492,
+      "displayDate": "492 BCE",
+      "note": ""
+    },
+    {
+      "id": "event-4",
+      "label": "Darius Demands Earth and Water",
+      "year": -491,
+      "displayDate": "c. 491 BCE",
+      "note": ""
+    },
+    {
+      "id": "event-5",
+      "label": "First Persian Invasion",
+      "year": -490,
+      "displayDate": "490 BCE",
+      "note": ""
+    },
+    {
+      "id": "event-6",
+      "label": "Second Persian Invasion Begins",
+      "year": -480,
+      "displayDate": "480 BCE",
+      "note": ""
+    }
+  ]
+}
