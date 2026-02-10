@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "greekstates",
+    "name": "Relationships between Greek States and Non-Greek States, c. 492-404 BC",
+    "description": "Desc.",
+    "units": [
+      {
+        "id": "greekstates-persia",
+        "name": "01. The Challenge of the Persian Empire, 492-479",
+        "description": "Caesar, Pompey and the late Republic.",
+        "quizzes": [
+          {
+            "id": "01-the-classical-greek-world",
+            "title": "01. The Classical Greek World",
+            "path": "quizzes/greekstates/persia/01-the-classical-greek-world-rev.json"
+          },
+          {
+            "id": "02-the-ionian-revolt",
+            "title": "02. The Ionian Revolt",
+            "path": "quizzes/greekstates/persia/02-the-ionian-revolt.json"
+          },
+          {
+            "id": "03-mardonius-campaign",
+            "title": "03. Mardonius’ Campaign",
+            "path": "quizzes/greekstates/persia/03-mardonius-campaign.json"
+          },
+          {
+            "id": "04-the-first-persian-invasion",
+            "title": "04. The First Persian Invasion",
+            "path": "quizzes/greekstates/persia/04-the-first-persian-invasion.json"
+          },
+          {
+            "id": "05-persian-preparations",
+            "title": "05. Persian Preparations",
+            "path": "quizzes/greekstates/persia/05-persian-preparations.json"
+          },
+          {
+            "id": "06-greek-responses",
+            "title": "06. Greek Responses",
+            "path": "quizzes/greekstates/persia/06-greek-responses.json"
+          },
+          {
+            "id": "07-the-hellenic-league",
+            "title": "07. The Hellenic League",
+            "path": "quizzes/greekstates/persia/07-the-hellenic-league.json"
+          },
+          {
+            "id": "08-thermopylae-and-artemisium",
+            "title": "08. The Battles of Thermopylae and Artemisium",
+            "path": "quizzes/greekstates/persia/08-thermopylae-and-artemisium.json"
+          },
+          {
+            "id": "09-the-battle-of-salamis",
+            "title": "09. The Battle of Salamis",
+            "path": "quizzes/greekstates/persia/09-the-battle-of-salamis.json"
+          },
+          {
+            "id": "10-the-battle-of-plataea",
+            "title": "10. The Battle of Plataea",
+            "path": "quizzes/greekstates/persia/10-the-battle-of-plataea.json"
+          },
+          {
+            "id": "11-the-battle-of-mycale",
+            "title": "11. The Battle of Mycale",
+            "path": "quizzes/greekstates/persia/11-the-battle-of-mycale.json"
+          }
+        ]
+      },
+      {
+        "id": "greekstates-greeceinconflict",
+        "name": "02. Greece in Conflict, 479-446",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "12-the-formation-of-the-delian-league",
+            "title": "12. The Formation of the Delian League",
+            "path": "quizzes/greekstates/greeceinconflict/12-the-formation-of-the-delian-league.json"
+          },
+          {
+            "id": "13-the-wars-of-the-delian-league",
+            "title": "13. The Wars of the Delian League",
+            "path": "quizzes/greekstates/greeceinconflict/13-the-wars-of-the-delian-league.json"
+          },
+          {
+            "id": "14-athenian-spartan-relations-478-465-bce",
+            "title": "14. Athenian–Spartan Relations, 478–465 BCE",
+            "path": "quizzes/greekstates/greeceinconflict/14-athenian-spartan-relations-478-465-bce.json"
+          },
+          {
+            "id": "15-the-helot-revolt-464-bce",
+            "title": "15. The Helot Revolt, 464 BCE",
+            "path": "quizzes/greekstates/greeceinconflict/15-the-helot-revolt-464-bce.json"
+          },
+          {
+            "id": "16-the-first-peloponnesian-war-461-446-bce",
+            "title": "16. The First Peloponnesian War, 461–446 BCE",
+            "path": "quizzes/greekstates/greeceinconflict/16-the-first-peloponnesian-war-461-446-bce.json"
+          },
+          {
+            "id": "17-the-delian-league-461-446-bce",
+            "title": "17. The Delian League, 461–446 BCE",
+            "path": "quizzes/greekstates/greeceinconflict/17-the-delian-league-461-446-bce.json"
+          },
+          {
+            "id": "18-the-spartan-invasion-of-attica-446-bce",
+            "title": "18. The Spartan Invasion of Attica, 446 BCE",
+            "path": "quizzes/greekstates/greeceinconflict/18-the-spartan-invasion-of-attica-446-bce.json"
+          }
+        ]
+      },
+      {
+        "id": "greekstates-peaceconflict",
+        "name": "03. Peace and Conflict, 446-431",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "19-the-thirty-year-peace-446-bce",
+            "title": "19. The Thirty Year Peace, 446 BCE",
+            "path": "quizzes/greekstates/peaceconflict/19-the-thirty-year-peace-446-bce.json"
+          },
+          {
+            "id": "20-the-revolt-of-samos-440-439-bce",
+            "title": "20. The Revolt of Samos, c. 440–439 BCE",
+            "path": "quizzes/greekstates/peaceconflict/20-the-revolt-of-samos-440-439-bce.json"
+          },
+          {
+            "id": "21-the-epidamnus-affair-436-433-bce",
+            "title": "21. The Epidamnus Affair, c. 436–433 BCE",
+            "path": "quizzes/greekstates/peaceconflict/21-the-epidamnus-affair-436-433-bce.json"
+          },
+          {
+            "id": "22-potidaea-433-432-bce",
+            "title": "22. Potidaea, c. 433–432 BCE",
+            "path": "quizzes/greekstates/peaceconflict/22-potidaea-433-432-bce.json"
+          },
+          {
+            "id": "23-the-megarian-decree-432-bce",
+            "title": "23. The Megarian Decree, c. 432 BCE",
+            "path": "quizzes/greekstates/peaceconflict/23-the-megarian-decree-432-bce.json"
+          },
+          {
+            "id": "24-the-assemblies-at-sparta-432-bce",
+            "title": "24. The Assemblies at Sparta, c. 432 BCE",
+            "path": "quizzes/greekstates/peaceconflict/24-the-assemblies-at-sparta-432-bce.json"
+          }
+        ]
+      },
+      {
+        "id": "greekstates-archidamianwar",
+        "name": "04. The Archidamian War, 431-421",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "25-strategies-in-the-archidamian-war",
+            "title": "25. Strategies in the Archidamian War",
+            "path": "quizzes/greekstates/archidamianwar/25-strategies-in-the-archidamian-war.json"
+          },
+          {
+            "id": "26-the-invasions-of-attica-and-the-plague-431-429-bce",
+            "title": "26. The Invasions of Attica and the Plague, 431–429 BCE",
+            "path": "quizzes/greekstates/archidamianwar/26-the-invasions-of-attica-and-the-plague-431-429-bce.json"
+          },
+          {
+            "id": "27-the-revolt-of-lesbos-428-bce",
+            "title": "27. The Revolt of Lesbos, 428 BCE",
+            "path": "quizzes/greekstates/archidamianwar/27-the-revolt-of-lesbos-428-bce.json"
+          },
+          {
+            "id": "28-plataea-and-corcyra-427-bce",
+            "title": "28. Plataea and Corcyra, 427 BCE",
+            "path": "quizzes/greekstates/archidamianwar/28-plataea-and-corcyra-427-bce.json"
+          },
+          {
+            "id": "29-tribute-reassessments-426-425-bce",
+            "title": "29. Tribute Reassessments, c. 426–425 BCE",
+            "path": "quizzes/greekstates/archidamianwar/29-tribute-reassessments-426-425-bce.json"
+          },
+          {
+            "id": "30-pylos-and-sphacteria-425-bce",
+            "title": "30. Pylos and Sphacteria, 425 BCE",
+            "path": "quizzes/greekstates/archidamianwar/30-pylos-and-sphacteria-425-bce.json"
+          },
+          {
+            "id": "31-brasidas-in-thrace-424-bce",
+            "title": "31. Brasidas in Thrace, 424 BCE",
+            "path": "quizzes/greekstates/archidamianwar/31-brasidas-in-thrace-424-bce.json"
+          },
+          {
+            "id": "32-attitudes-in-athens-and-sparta-424-421-bce",
+            "title": "32. Attitudes in Athens and Sparta, 424–421 BCE",
+            "path": "quizzes/greekstates/archidamianwar/32-attitudes-in-athens-and-sparta-424-421-bce.json"
+          },
+          {
+            "id": "33-the-peace-of-nicias-421-bce",
+            "title": "33. The Peace of Nicias, 421 BCE",
+            "path": "quizzes/greekstates/archidamianwar/33-the-peace-of-nicias-421-bce.json"
+          }
+        ]
+      },
+      {
+        "id": "greekstates-endofthewar",
+        "name": "05. The End of the Peloponnesian War, 421-404",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "34-changing-alliances-420-417-bce",
+            "title": "34. Changing Alliances, 420–417 BCE",
+            "path": "quizzes/greekstates/endofthewar/34-changing-alliances-420-417-bce.json"
+          },
+          {
+            "id": "35-athens-and-melos-416-bce",
+            "title": "35. Athens and Melos, 416 BCE",
+            "path": "quizzes/greekstates/endofthewar/35-athens-and-melos-416-bce.json"
+          },
+          {
+            "id": "36-the-sicilian-expedition-415-413-bce",
+            "title": "36. The Sicilian Expedition, 415–413 BCE",
+            "path": "quizzes/greekstates/endofthewar/36-the-sicilian-expedition-415-413-bce.json"
+          },
+          {
+            "id": "37-the-occupation-of-decelea-413-bce",
+            "title": "37. The Occupation of Decelea, c. 413 BCE",
+            "path": "quizzes/greekstates/endofthewar/37-the-occupation-of-decelea-413-bce.json"
+          },
+          {
+            "id": "38-the-impact-of-the-sicilian-expedition",
+            "title": "38. The Impact of the Sicilian Expedition",
+            "path": "quizzes/greekstates/endofthewar/38-the-impact-of-the-sicilian-expedition.json"
+          },
+          {
+            "id": "39-the-treaty-of-miletus-412-bce",
+            "title": "39. The Treaty of Miletus, c. 412 BCE",
+            "path": "quizzes/greekstates/endofthewar/39-the-treaty-of-miletus-412-bce.json"
+          },
+          {
+            "id": "40-the-oligarchic-coup-411-bce",
+            "title": "40. The Oligarchic Coup, 411 BCE",
+            "path": "quizzes/greekstates/endofthewar/40-the-oligarchic-coup-411-bce.json"
+          },
+          {
+            "id": "41-the-war-in-the-aegean-411-407-bce",
+            "title": "41. The War in the Aegean, 411–407 BCE",
+            "path": "quizzes/greekstates/endofthewar/41-the-war-in-the-aegean-411-407-bce.json"
+          },
+          {
+            "id": "42-the-battle-of-arginusae-406-bce",
+            "title": "42. The Battle of Arginusae, 406 BCE",
+            "path": "quizzes/greekstates/endofthewar/42-the-battle-of-arginusae-406-bce.json"
+          },
+          {
+            "id": "43-the-defeat-of-athens-405-404-bce",
+            "title": "43. The Defeat of Athens, 405–404 BCE",
+            "path": "quizzes/greekstates/endofthewar/43-the-defeat-of-athens-405-404-bce.json"
+          },
+          {
+            "id": "44-the-reasons-for-athens-defeat",
+            "title": "44. The Reasons for Athens’ Defeat",
+            "path": "quizzes/greekstates/endofthewar/44-the-reasons-for-athens-defeat.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "athens",
+    "name": "The Politics and Culture of Athens, c. 460-399 BC",
+    "description": "Desc.",
+    "units": [
+      {
+        "id": "athens-politics",
+        "name": "01. Athenian Political and Social Culture",
+        "description": "Caesar, Pompey and the late Republic.",
+        "quizzes": [
+          {
+            "id": "01-athens-and-attica",
+            "title": "01. Athens and Attica",
+            "path": "quizzes/athens/politics/01-athens-and-attica.json"
+          },
+          {
+            "id": "02-development-of-democracy",
+            "title": "02. Development of Democracy",
+            "path": "quizzes/athens/politics/02-development-of-democracy.json"
+          },
+          {
+            "id": "03-athenian-democracy",
+            "title": "03. Athenian Democracy",
+            "path": "quizzes/athens/politics/03-athenian-democracy.json"
+          },
+          {
+            "id": "04-criticisms-of-democracy",
+            "title": "04. Criticisms of Democracy",
+            "path": "quizzes/athens/politics/04-criticisms-of-democracy.json"
+          },
+          {
+            "id": "05-athenian-law-courts",
+            "title": "05. Athenian Law Courts",
+            "path": "quizzes/athens/politics/05-athenian-law-courts.json"
+          },
+          {
+            "id": "06-athens-and-her-empire",
+            "title": "06. Athens and her Empire",
+            "path": "quizzes/athens/politics/06-athens-and-her-empire.json"
+          },
+          {
+            "id": "07-rhetoric-in-athens",
+            "title": "07. Rhetoric in Athens",
+            "path": "quizzes/athens/politics/07-rhetoric-in-athens.json"
+          },
+          {
+            "id": "08-pericles-funeral-oration",
+            "title": "08. Pericles’ Funeral Oration",
+            "path": "quizzes/athens/politics/08-pericles-funeral-oration.json"
+          },
+          {
+            "id": "09-leadership-in-athens",
+            "title": "09. Leadership in Athens",
+            "path": "quizzes/athens/politics/09-leadership-in-athens.json"
+          },
+          {
+            "id": "10-citizens",
+            "title": "10. Citizens",
+            "path": "quizzes/athens/politics/10-citizens.json"
+          },
+          {
+            "id": "11-metics",
+            "title": "11. Metics",
+            "path": "quizzes/athens/politics/11-metics.json"
+          },
+          {
+            "id": "12-slaves",
+            "title": "12. Slaves",
+            "path": "quizzes/athens/politics/12-slaves.json"
+          },
+          {
+            "id": "13-women",
+            "title": "13. Women",
+            "path": "quizzes/athens/politics/13-women.json"
+          }
+        ]
+      },
+      {
+        "id": "athens-newthinking",
+        "name": "02. New Thinking and Philosophy",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "14-the-sophists",
+            "title": "14. The Sophists",
+            "path": "quizzes/athens/newthinking/14-the-sophists.json"
+          },
+          {
+            "id": "15-the-sophists-and-rhetoric",
+            "title": "15. The Sophists and Rhetoric",
+            "path": "quizzes/athens/newthinking/15-the-sophists-and-rhetoric.json"
+          },
+          {
+            "id": "16-the-sophists-and-athenian-society",
+            "title": "16. The Sophists and Athenian Society",
+            "path": "quizzes/athens/newthinking/16-the-sophists-and-athenian-society.json"
+          },
+          {
+            "id": "17-socrates",
+            "title": "17. Socrates",
+            "path": "quizzes/athens/newthinking/17-socrates.json"
+          },
+          {
+            "id": "18-socrates-methods-and-effects",
+            "title": "18. Socrates’ Methods and Effects",
+            "path": "quizzes/athens/newthinking/18-socrates-methods-and-effects.json"
+          },
+          {
+            "id": "19-socrates-and-democracy",
+            "title": "19. Socrates and Democracy",
+            "path": "quizzes/athens/newthinking/19-socrates-and-democracy.json"
+          },
+          {
+            "id": "20-socrates-trial-and-execution",
+            "title": "20. Socrates’ Trial and Execution",
+            "path": "quizzes/athens/newthinking/20-socrates-trial-and-execution.json"
+          }
+        ]
+      },
+      {
+        "id": "athens-art",
+        "name": "03. Art and Architecture",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "21-athenian-building-programme",
+            "title": "21. The Athenian Building Programme",
+            "path": "quizzes/athens/art/21-athenian-building-programme.json"
+          },
+          {
+            "id": "22-the-acropolis-of-athens",
+            "title": "22. The Acropolis of Athens",
+            "path": "quizzes/athens/art/22-the-acropolis-of-athens.json"
+          },
+          {
+            "id": "23-the-parthenon",
+            "title": "23. The Parthenon",
+            "path": "quizzes/athens/art/23-the-parthenon.json"
+          },
+          {
+            "id": "24-the-athenian-agora",
+            "title": "24. The Athenian Agora",
+            "path": "quizzes/athens/art/24-the-athenian-agora.json"
+          },
+          {
+            "id": "25-the-theatre-of-dionysus-and-odeon-of-pericles",
+            "title": "25. The Theatre of Dionysus and the Odeon of Pericles",
+            "path": "quizzes/athens/art/25-the-theatre-of-dionysus-and-odeon-of-pericles.json"
+          },
+          {
+            "id": "26-attica",
+            "title": "26. Attica",
+            "path": "quizzes/athens/art/26-attica.json"
+          }
+        ]
+      },
+      {
+        "id": "athens-drama",
+        "name": "04. Drama and Dramatic Festivals",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "27-the-city-dionysia",
+            "title": "27. The City Dionysia",
+            "path": "quizzes/athens/drama/27-the-city-dionysia.json"
+          },
+          {
+            "id": "28-the-lenaia",
+            "title": "28. The Lenaia",
+            "path": "quizzes/athens/drama/28-the-lenaia.json"
+          },
+          {
+            "id": "29-tragedy",
+            "title": "29. Tragedy",
+            "path": "quizzes/athens/drama/29-tragedy.json"
+          },
+          {
+            "id": "30-comedy",
+            "title": "30. Comedy",
+            "path": "quizzes/athens/drama/30-comedy.json"
+          }
+        ]
+      },
+      {
+        "id": "athens-religion",
+        "name": "05. Religion and Religious Festivals",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "31-athenian-religion",
+            "title": "31. Athenian Religion",
+            "path": "quizzes/athens/religion/31-athenian-religion.json"
+          },
+          {
+            "id": "32-attitudes-towards-religion",
+            "title": "32. Attitudes towards Religion",
+            "path": "quizzes/athens/religion/32-attitudes-towards-religion.json"
+          },
+          {
+            "id": "33-challenges-towards-religion",
+            "title": "33. Challenges towards Religion",
+            "path": "quizzes/athens/religion/33-challenges-towards-religion.json"
+          },
+          {
+            "id": "34-athenian-religious-festivals",
+            "title": "34. Athenian Religious Festivals",
+            "path": "quizzes/athens/religion/34-athenian-religious-festivals.json"
+          },
+          {
+            "id": "35-the-great-panathenaea",
+            "title": "35. The Great Panathenaea",
+            "path": "quizzes/athens/religion/35-the-great-panathenaea.json"
+          },
+          {
+            "id": "36-athena-and-poseidon",
+            "title": "36. Athena and Poseidon",
+            "path": "quizzes/athens/religion/36-athena-and-poseidon.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "republic",
+    "name": "The Breakdown of the Late Republic, 88-31 BC",
+    "description": "Desc.",
+    "units": [
+      {
+        "id": "republic-constitution",
+        "name": "01. The Roman Constitution",
+        "description": "Caesar, Pompey and the late Republic.",
+        "quizzes": [
+          {
+            "id": "01-the-late-roman-republic",
+            "title": "01. The Late Roman Republic",
+            "path": "quizzes/republic/constitution/01-the-late-roman-republic.json"
+          },
+          {
+            "id": "02-the-government-of-republican-rome",
+            "title": "02. The Government of Republican Rome",
+            "path": "quizzes/republic/constitution/02-the-government-of-republican-rome.json"
+          },
+          {
+            "id": "03-the-legal-system",
+            "title": "03. The Legal System",
+            "path": "quizzes/republic/constitution/03-the-legal-system.json"
+          },
+          {
+            "id": "04-social-structure",
+            "title": "04. Social Structure",
+            "path": "quizzes/republic/constitution/04-social-structure.json"
+          },
+          {
+            "id": "05-the-patronage-system",
+            "title": "05. The Patronage System",
+            "path": "quizzes/republic/constitution/05-the-patronage-system.json"
+          },
+          {
+            "id": "06-ager-publicus",
+            "title": "06. Ager Publicus",
+            "path": "quizzes/republic/constitution/06-ager-publicus.json"
+          },
+          {
+            "id": "07-means-of-achieving-success",
+            "title": "07. Means of Achieving Success",
+            "path": "quizzes/republic/constitution/07-means-of-achieving-success.json"
+          },
+          {
+            "id": "08-the-gracchi",
+            "title": "08. The Gracchi",
+            "path": "quizzes/republic/constitution/08-the-gracchi.json"
+          },
+          {
+            "id": "09-marius",
+            "title": "09. Marius",
+            "path": "quizzes/republic/constitution/09-marius.json"
+          }
+        ]
+      },
+      {
+        "id": "republic-sulla70s",
+        "name": "02. Sulla and the 70s",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "10-sullas-early-career",
+            "title": "10. Sulla’s Early Career",
+            "path": "quizzes/republic/sulla70s/10-sullas-early-career.json"
+          },
+          {
+            "id": "11-sullas-civil-war",
+            "title": "11. Sulla’s Civil War",
+            "path": "quizzes/republic/sulla70s/11-sullas-civil-war.json"
+          },
+          {
+            "id": "12-sullas-dictatorship",
+            "title": "12. Sulla’s Dictatorship",
+            "path": "quizzes/republic/sulla70s/12-sullas-dictatorship.json"
+          },
+          {
+            "id": "13-responses-to-sullas-reforms",
+            "title": "13. Responses to Sulla’s Reforms",
+            "path": "quizzes/republic/sulla70s/13-responses-to-sullas-reforms.json"
+          },
+          {
+            "id": "14-pompeys-early-career",
+            "title": "14. Pompey’s Early Career",
+            "path": "quizzes/republic/sulla70s/14-pompeys-early-career.json"
+          },
+          {
+            "id": "15-the-third-servile-war",
+            "title": "15. The Third Servile War",
+            "path": "quizzes/republic/sulla70s/15-the-third-servile-war.json"
+          },
+          {
+            "id": "16-pompey-and-crassus-as-consuls",
+            "title": "16. Pompey and Crassus as Consuls",
+            "path": "quizzes/republic/sulla70s/16-pompey-and-crassus-as-consuls.json"
+          }
+        ]
+      },
+      {
+        "id": "republic-cicero60s",
+        "name": "03. Cicero and the 60s",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "17-the-first-catilinarian-conspiracy",
+            "title": "17. The First Catilinarian Conspiracy",
+            "path": "quizzes/republic/cicero60s/17-the-first-catilinarian-conspiracy.json"
+          },
+          {
+            "id": "18-ciceros-early-career",
+            "title": "18. Cicero’s Early Career",
+            "path": "quizzes/republic/cicero60s/18-ciceros-early-career.json"
+          },
+          {
+            "id": "19-the-catilinarian-conspiracy",
+            "title": "19. The Catilinarian Conspiracy",
+            "path": "quizzes/republic/cicero60s/19-the-catilinarian-conspiracy.json"
+          },
+          {
+            "id": "20-pompeys-extraordinary-commands",
+            "title": "20. Pompey’s Extraordinary Commands",
+            "path": "quizzes/republic/cicero60s/20-pompeys-extraordinary-commands.json"
+          },
+          {
+            "id": "21-caesars-early-career",
+            "title": "21. Caesar’s Early Career",
+            "path": "quizzes/republic/cicero60s/21-caesars-early-career.json"
+          }
+        ]
+      },
+      {
+        "id": "republic-caesar50s",
+        "name": "04. The 50s - A Turbulent Decade",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "22-the-first-triumvirate",
+            "title": "22. The First Triumvirate",
+            "path": "quizzes/republic/caesar50s/22-the-first-triumvirate.json"
+          },
+          {
+            "id": "23-caesars-consulship",
+            "title": "23. Caesar’s Consulship",
+            "path": "quizzes/republic/caesar50s/23-caesars-consulship.json"
+          },
+          {
+            "id": "24-clodius-early-career",
+            "title": "24. Clodius’ Early Career",
+            "path": "quizzes/republic/caesar50s/24-clodius-early-career.json"
+          },
+          {
+            "id": "25-the-breakdown-of-the-triumvirate",
+            "title": "25. The Breakdown of the Triumvirate",
+            "path": "quizzes/republic/caesar50s/25-the-breakdown-of-the-triumvirate.json"
+          },
+          {
+            "id": "26-pompeys-sole-consulship",
+            "title": "26. Pompey’s Sole Consulship",
+            "path": "quizzes/republic/caesar50s/26-pompeys-sole-consulship.json"
+          }
+        ]
+      },
+      {
+        "id": "republic-civilwar",
+        "name": "05. Caesar's Civil War and Dictatorships, 49-44",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "27-the-lead-up-to-the-civil-war",
+            "title": "27. The Lead up to the Civil War",
+            "path": "quizzes/republic/civilwar/27-the-lead-up-to-the-civil-war.json"
+          },
+          {
+            "id": "28-caesars-civil-war",
+            "title": "28. Caesar’s Civil War",
+            "path": "quizzes/republic/civilwar/28-caesars-civil-war.json"
+          },
+          {
+            "id": "29-caesars-dictatorships",
+            "title": "29. Caesar’s Dictatorships",
+            "path": "quizzes/republic/civilwar/29-caesars-dictatorships.json"
+          },
+          {
+            "id": "30-caesars-reforms",
+            "title": "30. Caesar’s Reforms",
+            "path": "quizzes/republic/civilwar/30-caesars-reforms.json"
+          },
+          {
+            "id": "31-caesars-assassination",
+            "title": "31. Caesar’s Assassination",
+            "path": "quizzes/republic/civilwar/31-caesars-assassination.json"
+          }
+        ]
+      },
+      {
+        "id": "republic-secondtrium",
+        "name": "06. The Second Triumvirate, 44-31",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "32-antony-and-octavian-44-43-bce",
+            "title": "32. Antony and Octavian, 44–43 BCE",
+            "path": "quizzes/republic/secondtrium/32-antony-and-octavian-44-43-bce.json"
+          },
+          {
+            "id": "33-the-second-triumvirate-43-bce",
+            "title": "33. The Second Triumvirate, 43 BCE",
+            "path": "quizzes/republic/secondtrium/33-the-second-triumvirate-43-bce.json"
+          },
+          {
+            "id": "34-the-liberators-civil-war-43-42-bce",
+            "title": "34. The Liberators’ Civil War, 43–42 BCE",
+            "path": "quizzes/republic/secondtrium/34-the-liberators-civil-war-43-42-bce.json"
+          },
+          {
+            "id": "35-challenges-to-the-second-triumvirate-42-36-bce",
+            "title": "35. Challenges to the Second Triumvirate, 42–36 BCE",
+            "path": "quizzes/republic/secondtrium/35-challenges-to-the-second-triumvirate-42-36-bce.json"
+          },
+          {
+            "id": "36-antony-and-octavian-36-33-bce",
+            "title": "36. Antony and Octavian, 36–33 BCE",
+            "path": "quizzes/republic/secondtrium/36-antony-and-octavian-36-33-bce.json"
+          },
+          {
+            "id": "37-antony-vs-octavian-33-31-bce",
+            "title": "37. Antony vs Octavian, 33–31 BCE",
+            "path": "quizzes/republic/secondtrium/37-antony-vs-octavian-33-31-bce.json"
+          }
+        ]
+      },
+      {
+        "id": "republic-socialeconomic",
+        "name": "07. Social and Economic Relationships",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "38-senators-equestrians-and-plebians",
+            "title": "38. Senators, Equestrians, and Plebians",
+            "path": "quizzes/republic/socialeconomic/38-senators-equestrians-and-plebians.json"
+          },
+          {
+            "id": "39-land-reform",
+            "title": "39. Land Reform",
+            "path": "quizzes/republic/socialeconomic/39-land-reform.json"
+          },
+          {
+            "id": "40-buying-support",
+            "title": "40. Buying Support",
+            "path": "quizzes/republic/socialeconomic/40-buying-support.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "julioclaudians",
+    "name": "The Julio-Claudian Emperors, 31 BC-AD 68",
+    "description": "Desc.",
+    "units": [
+      {
+        "id": "julioclaudians-augustus",
+        "name": "01. Augustus",
+        "description": "Caesar, Pompey and the late Republic.",
+        "quizzes": [
+          {
+            "id": "01-the-victory-at-actium",
+            "title": "01. The Victory at Actium",
+            "path": "quizzes/julioclaudians/augustus/01-the-victory-at-actium.json"
+          },
+          {
+            "id": "02-the-first-constitutional-settlement-27-bce",
+            "title": "02. The First Constitutional Settlement, 27 BCE",
+            "path": "quizzes/julioclaudians/augustus/02-the-first-constitutional-settlement-27-bce.json"
+          },
+          {
+            "id": "03-the-second-constitutional-settlement-23-bce",
+            "title": "03. The Second Constitutional Settlement, 23 BCE",
+            "path": "quizzes/julioclaudians/augustus/03-the-second-constitutional-settlement-23-bce.json"
+          },
+          {
+            "id": "04-augustus-moral-legislation",
+            "title": "04. Augustus' Moral Legislation",
+            "path": "quizzes/julioclaudians/augustus/04-augustus-moral-legislation.json"
+          },
+          {
+            "id": "05-augustus-and-religion",
+            "title": "05. Augustus and Religion",
+            "path": "quizzes/julioclaudians/augustus/05-augustus-and-religion.json"
+          },
+          {
+            "id": "06-augustus-and-the-imperial-cult",
+            "title": "06. Augustus and the Imperial Cult",
+            "path": "quizzes/julioclaudians/augustus/06-augustus-and-the-imperial-cult.json"
+          },
+          {
+            "id": "07-augustus-and-tradition",
+            "title": "07. Augustus and Tradition",
+            "path": "quizzes/julioclaudians/augustus/07-augustus-and-tradition.json"
+          },
+          {
+            "id": "08-augustus-and-livia",
+            "title": "08. Augustus and Livia",
+            "path": "quizzes/julioclaudians/augustus/08-augustus-and-livia.json"
+          },
+          {
+            "id": "09-augustus-military-achievements",
+            "title": "09. Augustus’ Military Achievements",
+            "path": "quizzes/julioclaudians/augustus/09-augustus-military-achievements.json"
+          },
+          {
+            "id": "10-augustus-administrative-changes",
+            "title": "10. Augustus' Administrative Changes",
+            "path": "quizzes/julioclaudians/augustus/10-augustus-administrative-changes.json"
+          },
+          {
+            "id": "11-augustus-and-the-people-of-rome",
+            "title": "11. Augustus and the People of Rome",
+            "path": "quizzes/julioclaudians/augustus/11-augustus-and-the-people-of-rome.json"
+          },
+          {
+            "id": "12-challenges-to-augustus-rule",
+            "title": "12. Challenges to Augustus’ Rule",
+            "path": "quizzes/julioclaudians/augustus/12-challenges-to-augustus-rule.json"
+          },
+          {
+            "id": "13-augustus-and-agrippa",
+            "title": "13. Augustus and Agrippa",
+            "path": "quizzes/julioclaudians/augustus/13-augustus-and-agrippa.json"
+          },
+          {
+            "id": "14-augustus-building-programme",
+            "title": "14. Augustus' Building Programme",
+            "path": "quizzes/julioclaudians/augustus/14-augustus-building-programme.json"
+          },
+          {
+            "id": "15-augustus-tiberius-and-germanicus",
+            "title": "15. Augustus, Tiberius, and Germanicus",
+            "path": "quizzes/julioclaudians/augustus/15-augustus-tiberius-and-germanicus.json"
+          },
+          {
+            "id": "16-the-succession",
+            "title": "16. The Succession",
+            "path": "quizzes/julioclaudians/augustus/16-the-succession.json"
+          },
+          {
+            "id": "17-the-res-gestae",
+            "title": "17. The Res Gestae",
+            "path": "quizzes/julioclaudians/augustus/17-the-res-gestae.json"
+          }
+        ]
+      },
+      {
+        "id": "julioclaudians-tiberius",
+        "name": "02. Tiberius",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "18-tiberius-early-career",
+            "title": "18. Tiberius’ Early Career",
+            "path": "quizzes/julioclaudians/tiberius/18-tiberius-early-career.json"
+          },
+          {
+            "id": "19-tiberius-and-germanicus",
+            "title": "19. Tiberius and Germanicus",
+            "path": "quizzes/julioclaudians/tiberius/19-tiberius-and-germanicus.json"
+          },
+          {
+            "id": "20-tiberius-and-sejanus",
+            "title": "20. Tiberius and Sejanus",
+            "path": "quizzes/julioclaudians/tiberius/20-tiberius-and-sejanus.json"
+          },
+          {
+            "id": "21-suetonius-on-tiberius",
+            "title": "21. Suetonius on Tiberius",
+            "path": "quizzes/julioclaudians/tiberius/21-suetonius-on-tiberius.json"
+          },
+          {
+            "id": "22-tacitus-on-tiberius",
+            "title": "22. Tacitus on Tiberius",
+            "path": "quizzes/julioclaudians/tiberius/22-tacitus-on-tiberius.json"
+          },
+          {
+            "id": "23-velleius-paterculus-on-tiberius",
+            "title": "23. Velleius Paterculus on Tiberius",
+            "path": "quizzes/julioclaudians/tiberius/23-velleius-paterculus-on-tiberius.json"
+          },
+          {
+            "id": "24-challenges-to-tiberius",
+            "title": "24. Challenges to Tiberius",
+            "path": "quizzes/julioclaudians/tiberius/24-challenges-to-tiberius.json"
+          },
+          {
+            "id": "25-the-maiestas-trials",
+            "title": "25. The Maiestas Trials",
+            "path": "quizzes/julioclaudians/tiberius/25-the-maiestas-trials.json"
+          },
+          {
+            "id": "26-tiberius-and-the-provinces",
+            "title": "26. Tiberius and the Provinces",
+            "path": "quizzes/julioclaudians/tiberius/26-tiberius-and-the-provinces.json"
+          },
+          {
+            "id": "27-tiberius-and-the-people-of-rome",
+            "title": "27. Tiberius and the People of Rome",
+            "path": "quizzes/julioclaudians/tiberius/27-tiberius-and-the-people-of-rome.json"
+          },
+          {
+            "id": "28-tiberius-administration-of-rome",
+            "title": "28. Tiberius’ Administration of Rome",
+            "path": "quizzes/julioclaudians/tiberius/28-tiberius-administration-of-rome.json"
+          },
+          {
+            "id": "29-tiberius-and-religion",
+            "title": "29. Tiberius and Religion",
+            "path": "quizzes/julioclaudians/tiberius/29-tiberius-and-religion.json"
+          }
+        ]
+      },
+      {
+        "id": "julioclaudians-Gaius",
+        "name": "03. Gaius",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "30-gaius-early-reign",
+            "title": "30. Gaius’ Early Reign",
+            "path": "quizzes/julioclaudians/gaius/30-gaius-early-reign.json"
+          },
+          {
+            "id": "31-gaius-madness",
+            "title": "31. Gaius’ ‘Madness’",
+            "path": "quizzes/julioclaudians/gaius/31-gaius-madness.json"
+          },
+          {
+            "id": "32-gaius-and-religion",
+            "title": "32. Gaius and Religion",
+            "path": "quizzes/julioclaudians/gaius/32-gaius-and-religion.json"
+          },
+          {
+            "id": "33-gaius-and-the-empire",
+            "title": "33. Gaius and the Empire",
+            "path": "quizzes/julioclaudians/gaius/33-gaius-and-the-empire.json"
+          },
+          {
+            "id": "34-gaius-administration",
+            "title": "34. Gaius’ Administration",
+            "path": "quizzes/julioclaudians/gaius/34-gaius-administration.json"
+          },
+          {
+            "id": "35-gaius-and-the-people-of-rome",
+            "title": "35. Gaius and the People of Rome",
+            "path": "quizzes/julioclaudians/gaius/35-gaius-and-the-people-of-rome.json"
+          },
+          {
+            "id": "36-gaius-assassination",
+            "title": "36. Gaius’ Assassination",
+            "path": "quizzes/julioclaudians/gaius/36-gaius-assassination.json"
+          }
+        ]
+      },
+      {
+        "id": "julioclaudians-claudius",
+        "name": "04. Claudius",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "37-claudius-accession",
+            "title": "37. Claudius’ Accession",
+            "path": "quizzes/julioclaudians/claudius/37-claudius-accession.json"
+          },
+          {
+            "id": "38-claudius-freedmen-and-civil-service",
+            "title": "38. Claudius’ Freedmen and Civil Service",
+            "path": "quizzes/julioclaudians/claudius/38-claudius-freedmen-and-civil-service.json"
+          },
+          {
+            "id": "39-claudius-wives",
+            "title": "39. Claudius’ Wives",
+            "path": "quizzes/julioclaudians/claudius/39-claudius-wives.json"
+          },
+          {
+            "id": "40-claudius-foreign-policies",
+            "title": "40. Claudius’ Foreign Policies",
+            "path": "quizzes/julioclaudians/claudius/40-claudius-foreign-policies.json"
+          },
+          {
+            "id": "41-claudius-administrative-changes",
+            "title": "41. Claudius’ Administrative Changes",
+            "path": "quizzes/julioclaudians/claudius/41-claudius-administrative-changes.json"
+          },
+          {
+            "id": "42-claudius-and-the-people-of-rome",
+            "title": "42. Claudius and the People of Rome",
+            "path": "quizzes/julioclaudians/claudius/42-claudius-and-the-people-of-rome.json"
+          },
+          {
+            "id": "43-claudius-britannicus-and-nero",
+            "title": "43. Claudius, Britannicus, and Nero",
+            "path": "quizzes/julioclaudians/claudius/43-claudius-britannicus-and-nero.json"
+          },
+          {
+            "id": "44-claudius-death",
+            "title": "44. Claudius’ Death",
+            "path": "quizzes/julioclaudians/claudius/44-claudius-death.json"
+          }
+        ]
+      },
+      {
+        "id": "julioclaudians-nero",
+        "name": "05. Nero",
+        "description": "Structure of the Roman legal system.",
+        "quizzes": [
+          {
+            "id": "45-nero-early-reign",
+            "title": "45. Nero’s Early Reign",
+            "path": "quizzes/julioclaudians/nero/45-nero-early-reign.json"
+          },
+          {
+            "id": "46-nero-and-agrippina",
+            "title": "46. Nero and Agrippina",
+            "path": "quizzes/julioclaudians/nero/46-nero-and-agrippina.json"
+          },
+          {
+            "id": "47-nero-wives",
+            "title": "47. Nero’s Wives",
+            "path": "quizzes/julioclaudians/nero/47-nero-wives.json"
+          },
+          {
+            "id": "48-nero-administration",
+            "title": "48. Nero’s Administration",
+            "path": "quizzes/julioclaudians/nero/48-nero-administration.json"
+          },
+          {
+            "id": "49-nero-and-religion",
+            "title": "49. Nero and Religion",
+            "path": "quizzes/julioclaudians/nero/49-nero-and-religion.json"
+          },
+          {
+            "id": "50-nero-and-the-people-of-rome",
+            "title": "50. Nero and the People of Rome",
+            "path": "quizzes/julioclaudians/nero/50-nero-and-the-people-of-rome.json"
+          },
+          {
+            "id": "51-the-great-fire-of-rome",
+            "title": "51. The Great Fire of Rome",
+            "path": "quizzes/julioclaudians/nero/51-the-great-fire-of-rome.json"
+          },
+          {
+            "id": "52-the-pisonian-conspiracy",
+            "title": "52. The Pisonian Conspiracy",
+            "path": "quizzes/julioclaudians/nero/52-the-pisonian-conspiracy.json"
+          },
+          {
+            "id": "53-corbulo-in-armenia",
+            "title": "53. Corbulo in Armenia",
+            "path": "quizzes/julioclaudians/nero/53-corbulo-in-armenia.json"
+          },
+          {
+            "id": "54-the-revolt-of-vindex",
+            "title": "54. The Revolt of Vindex",
+            "path": "quizzes/julioclaudians/nero/54-the-revolt-of-vindex.json"
+          },
+          {
+            "id": "55-the-fall-of-nero",
+            "title": "55. The Fall of Nero",
+            "path": "quizzes/julioclaudians/nero/55-the-fall-of-nero.json"
+          },
+          {
+            "id": "56-nero-in-the-sources",
+            "title": "56. Nero in the Sources",
+            "path": "quizzes/julioclaudians/nero/56-nero-in-the-sources.json"
+          }
+        ]
+      }
+    ]
+  }
+]
